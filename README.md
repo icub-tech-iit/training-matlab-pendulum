@@ -25,7 +25,9 @@ Copy out `step_8.slx` into `step_9.slx`. Then, use `step_9.slx` to develop a con
 To complete the assignment do:
 1. [Fork][1] this repository to your own account. The following actions are to be taken in your forked repository.
 1. [Create the branch][2] `solution` off of the branch `master`.
-1. [Commit][3] the model `step_9.slx` as well as a screenshot of the graph of the angle velocity into the branch `solution`.
+1. [Commit][3] into the branch `solution` the following files:
+    1. the model `step_9.slx`;
+    1. a screenshot of the graph of the angle velocity.
 1. [Push][4]/sync the changes up to GitHub.
 1. [Create a pull request][5] (**PR**) with `master` as _base branch_ and `solution` as _compare branch_. ⚠ Be careful that the base branch needs to be the one in your fork.
 1. [Request to review your PR][6] 👋 to turn in the assignment.
