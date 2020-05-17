@@ -1,7 +1,7 @@
 👨‍🔬 Modeling a Pendulum in MATLAB
 =================================
 
-This repository contains the material requited to support the hands-on that walks you through the basic steps
+This repository contains the material required to support the hands-on that walks you through the basic steps
 for modeling a physical system in MATLAB/Simulink.
 
 | |
