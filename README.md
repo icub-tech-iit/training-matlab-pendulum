@@ -19,6 +19,8 @@ for modeling a physical system in MATLAB/Simulink.
 7. Let's **control** the pendulum.
 8. Perpetual motion doesn't exist actually, better off **dumping the pendulum**.
 
+With MATLAB you can design, simulate, and implement controllers for more complicated systems such as an [inverted pendulum](https://mathworks.com/videos/inverted-pendulum-control-with-simmechanics-and-quarc-106862.html).
+
 ### 🎓 Assignment
 Copy out `step_8.slx` into `step_9.slx`. Then, use `step_9.slx` to develop a controller that will let the pendulum rotate at a constant velocity.  
 
