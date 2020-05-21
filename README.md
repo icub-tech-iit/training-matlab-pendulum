@@ -13,11 +13,11 @@ for modeling a physical system in MATLAB/Simulink.
 1. Sketch out the system on the paper and derive the **governing equations**.
 2. Solve the **ODE problem** in MATLAB.
 3. **Simplify modeling** by using Simulink.
-4. Don't model it, **just build it** in Simscape.
+4. Don't model it, just **build it** and **show it** in Simscape.
 5. Carry out a **back-to-back comparison**.
 6. Building a **double pendulum** is as easy as counting 1,2,3.
 7. Let's **control** the pendulum.
-8. Perpetual motion doesn't exist actually, better off **dumping the pendulum**.
+8. Perpetual motion doesn't exist actually, better off **damping the pendulum**.
 
 With MATLAB you can design, simulate, and implement controllers for more complicated systems such as an [inverted pendulum](https://mathworks.com/videos/inverted-pendulum-control-with-simmechanics-and-quarc-106862.html).
 
