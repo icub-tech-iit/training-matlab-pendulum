@@ -22,7 +22,8 @@ for modeling a physical system in MATLAB/Simulink.
 With MATLAB you can design, simulate, and implement controllers for more complicated systems such as an [inverted pendulum](https://mathworks.com/videos/inverted-pendulum-control-with-simmechanics-and-quarc-106862.html).
 
 ### 🎓 Assignment
-Copy out `step_8.slx` into `step_9.slx`. Then, use `step_9.slx` to develop a controller that will let the pendulum rotate at a constant velocity.  
+Copy out `step_8.slx` into `step_9.slx`. Then, use `step_9.slx` to develop a controller that will let the pendulum rotate at a constant velocity.
+Try to reduce the velocity ripple as much as possible.
 
 To complete the assignment do:
 1. [Generate][1] a copy of this repository into your own account. Tick in the option "include all branches" ✔
