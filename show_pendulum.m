@@ -1,4 +1,6 @@
 function show_pendulum(t,x,l)
+% Copyright (C) 2024 Fondazione Istitito Italiano di Tecnologia (IIT)
+% All Rights Reserved.
 
 x_pos = l*sin(x(:,1));
 y_pos = -l*cos(x(:,1));

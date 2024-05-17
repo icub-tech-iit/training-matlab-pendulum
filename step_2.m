@@ -1,4 +1,6 @@
 function step_2
+% Copyright (C) 2024 Fondazione Istitito Italiano di Tecnologia (IIT)
+% All Rights Reserved.
 
 params = load('pendulum');
 g = params.g;
